@@ -12,7 +12,7 @@ My journey through business and IT has led me to develop a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure: Create a Virtual Machine and Deploy a Web Server | <a href="[https://google.com](https://github.com/Danzz36/Azure-Create-a-Virtual-Machine-and-Deploy-a-Web-Server-/blob/main/README.md)">Detection Lab</a>|
+| Azure: Create a Virtual Machine and Deploy a Web Server | <a href="https://google.com](https://github.com/Danzz36/Azure-Create-a-Virtual-Machine-and-Deploy-a-Web-Server-/blob/main/README.md)">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
