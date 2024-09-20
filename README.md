@@ -49,7 +49,7 @@ My journey through business and IT has led me to develop a passion for cybersecu
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Microsoft%20Cybersecurity%20Analyst%20(SC--900)-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> (In Progress)
+<img src="https://img.shields.io/badge/-Microsoft%20Cybersecurity%20Analyst%20(SC--900)%20In%20Progress-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
