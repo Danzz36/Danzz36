@@ -57,7 +57,7 @@ My journey through business and IT has led me to develop a passion for cybersecu
 </div>
 
 ## Projects
-- <a href="https://github.com/Danzz36/Azure-Create-a-Virtual-Machine-and-Deploy-a-Web-Server-/blob/main/README.md">Azure: Create a Virtual Machine and Deploy a Web Server</a>
+- <a href="https://github.com/Danzz36/Azure-Create-a-Virtual-Machine-and-Deploy-a-Web-Server-/blob/main/README.md">Deploying a Web Server on Azure: Virtual Network and Machine Setup, Network Security, and DNS Configuration</a>
 - Detection Lab
 - SOC Automation Project
 <!--
