@@ -8,15 +8,14 @@ I'm an IT professional with an intense interest in cybersecurity and cloud envir
 
 My journey through business and IT has led me to develop a passion for cybersecurity and I am eager to transition into this field. I'm specifically aiming for Cloud Security Engineering or to join a Security Operations Center (SOC) as an Analyst.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Project                                        | Documentation         |
 |-----------------------------------------------|----------------------------|
-| Azure: Create a Virtual Machine and Deploy a Web Server | <a href="https://github.com/Danzz36/Azure-Create-a-Virtual-Machine-and-Deploy-a-Web-Server-/blob/main/README.md">Detection Lab</a>|
+| Deploying a Web Server on Azure: Virtual Network and Machine Setup, Network Security, and DNS Configuration | <a href="https://github.com/Danzz36/Azure-Create-a-Virtual-Machine-and-Deploy-a-Web-Server-/blob/main/README.md">Repository</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+
 
 ## Tools
 
@@ -33,7 +32,6 @@ My journey through business and IT has led me to develop a passion for cybersecu
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -47,19 +45,29 @@ My journey through business and IT has led me to develop a passion for cybersecu
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Certifications
+### Languages
 <div>
-<img src="https://img.shields.io/badge/-Microsoft%20Cybersecurity%20Analyst%20(SC--900)%20In%20Progress-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-GRC%20Mastery-000080?&style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+   <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
 </div>
 
-## Projects
-- <a href="https://github.com/Danzz36/Azure-Create-a-Virtual-Machine-and-Deploy-a-Web-Server-/blob/main/README.md">Deploying a Web Server on Azure: Virtual Network and Machine Setup, Network Security, and DNS Configuration</a>
-- Detection Lab
-- SOC Automation Project
+### Operating Systems
+<div>
+   <img src="https://img.shields.io/badge/-Microsoft%20Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+   <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+</div>
+
+## Certifications
+<div>
+   <img src="https://img.shields.io/badge/-Microsoft%20Cybersecurity%20Analyst%20(SC--900)%20In%20Progress-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+   <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+   <img src="https://img.shields.io/badge/-GRC%20Mastery-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
 <!--
 **Danzz36/Danzz36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
