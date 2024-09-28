@@ -13,7 +13,7 @@ My journey through business and IT has led me to develop a passion for cybersecu
 | Project                                        | Documentation         |
 |-----------------------------------------------|----------------------------|
 | Deploying a Web Server on Azure: Virtual Network and Machine Setup, Network Security, and DNS Configuration | <a href="https://github.com/Danzz36/Azure-Create-a-Virtual-Machine-and-Deploy-a-Web-Server-/blob/main/README.md">Repository</a>|
-| NIST Cybersecurity Assessment | <a href="https://google.com](https://github.com/Danzz36/NIST-Cybersecurity-Assessment-Practice">Repository</a>|
+| NIST Cybersecurity Assessment | <a href="(https://github.com/Danzz36/NIST-Cybersecurity-Assessment-Practice">Repository</a>|
 
 
 
