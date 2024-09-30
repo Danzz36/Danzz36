@@ -16,7 +16,7 @@ My journey through business and IT has led me to develop a passion for cybersecu
 | NIST Cybersecurity Assessment | <a href="https://github.com/Danzz36/NIST-Cybersecurity-Assessment-Practice">Repository</a>|
 | Update a file through a Python Algorithm | <a href="https://github.com/Danzz36/Update-a-file-through-a-Python-algorithm-">Repository</a>|
 | Apply Filters to SQL Queries | Repository |
-| Use Linux Commands to Manage File Permissions | <a href="https://github.com/Danzz36/Use-Linux-Commands-to-Manage-File-">Repository</a> |
+| Use Linux Commands to Manage File Permissions | <a href="https://github.com/Danzz36/Use-Linux-Commands-to-Manage-File-Permissions">Repository</a> |
 
 
 ## Tools
